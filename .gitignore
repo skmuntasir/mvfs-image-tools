@@ -1,0 +1,13 @@
+# Build output
+mkfs_builder
+mkfs_adder
+*.exe
+*.o
+
+# Generated file system images
+*.img
+
+# OS / editor files
+.DS_Store
+.vscode/
+__pycache__/
